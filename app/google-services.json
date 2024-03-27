@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686678127634",
+    "project_id": "anteater-connect",
+    "storage_bucket": "anteater-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686678127634:android:bd05531445a5ced32214cb",
+        "android_client_info": {
+          "package_name": "com.example.anteaterconnectapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5dwVv8OT37GtRokoETPEM6PxaEBLYc-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
