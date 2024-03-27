@@ -11,7 +11,7 @@ AnteaterConnect is a social media application designed exclusively for students 
 ## Getting Started
 
 ### Prerequisites
-- Android/iOS device or emulator
+- Android device or emulator
 - Internet connection
 
 ### Installation
