@@ -38,7 +38,7 @@ We welcome contributions from UCI students and alumni. If you have ideas for new
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-- Project Link: [https://github.com/SonnyJennings/AnteaterConnectApp](https://github.com/SonnyJennings/Full-Stack-Social-Media-App)
+- Project Link: [https://github.com/SonnyJennings/Full-Stack-Social-Media-App](https://github.com/SonnyJennings/Full-Stack-Social-Media-App)
 - Email: [smjennin@@uci.edu](mailto:smjennin@uci.edu)
 
 ## Acknowledgments
